@@ -1,0 +1,10 @@
+name: 'Path Alias deprecated test'
+type: module
+description: 'Support module for testing deprecated functionality for path aliases.'
+package: Testing
+# version: VERSION
+
+# Information added by Drupal.org packaging script on 2021-07-21
+version: '8.9.17'
+project: 'drupal'
+datestamp: 1626883393

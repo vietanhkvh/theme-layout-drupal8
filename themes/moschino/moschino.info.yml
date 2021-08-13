@@ -1,0 +1,16 @@
+name: Moschino Theme
+type: theme
+core_version_requirement: ^8 || ^9
+description: Simple theme for website
+screenshoot: srceenshot.png
+
+libraries:
+  - moschino/global-styling
+  - moschino/global-scripts
+
+regions:
+  header: Header
+  content: Content
+  footer: Footer
+  page_top: 'Page top'
+  page_bottom: 'Page bottom'

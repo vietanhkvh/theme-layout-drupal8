@@ -1,0 +1,18 @@
+global-styling:
+  version: VERSION
+  css:
+    theme:
+      css/style.css: {}
+      css/easy-responsive-shortcodes.css: {}
+      css/font-awesome.min.css: {}
+      css/woocommerce-layout.css: {}
+
+global-scripts:
+  version: VERSION
+  js:
+    js/scripts.js: {}
+  dependencies:
+    - core/jquery
+    - core/drupal
+    - core/drupalSettings
+    - core/jquery.ui.dialog
